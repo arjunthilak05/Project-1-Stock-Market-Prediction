@@ -1,6 +1,6 @@
 # Stock Market Forecasting with LSTM Networks
 
-![Stock Market Forecast](https://raw.githubusercontent.com/username/stock-market-lstm/main/images/forecast_comparison.png)
+![Stock Market Forecast](https://raw.githubusercontent.com/arjunthilak05/Project-1-Stock-Market-Prediction/9397c938d57ad146fcd6fbfdefce82936398adeb/output.png)
 
 ## Overview
 
