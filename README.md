@@ -30,7 +30,7 @@ This project implements a Long Short-Term Memory (LSTM) neural network model to 
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/stock-market-lstm.git
+git clone https://github.com/arjunthilak05/Project-1-Stock-Market-Prediction.git 
 cd stock-market-lstm
 
 # Create a virtual environment (optional but recommended)
